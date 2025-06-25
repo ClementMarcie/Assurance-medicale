@@ -13,3 +13,6 @@ Le modèle utilisé est un Random Forest Regressor avec un R² de 0.88.
 ## Résultats
 - R² : 0.88
 - MAE : 2620.48
+
+## Dashboard
+https://lookerstudio.google.com/reporting/c6cf1641-8cfc-4444-a50a-069fd867b766
